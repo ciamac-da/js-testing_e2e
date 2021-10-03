@@ -1,0 +1,37 @@
+{
+  "name": "js-testing_e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack app.js --mode development --watch",
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "testing",
+    "jest",
+    "unit",
+    "tests",
+    "integration",
+    "tests",
+    "e2e",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciamac-da/js-testing_e2e.git"
+  },
+  "author": "",
+  "devDependencies": {
+    "jest": "^27.2.4",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciamac-da/js-testing_e2e/issues"
+  },
+  "homepage": "https://github.com/ciamac-da/js-testing_e2e#readme"
+}
