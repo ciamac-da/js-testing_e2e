@@ -26,6 +26,7 @@
   "author": "",
   "devDependencies": {
     "jest": "^27.2.4",
+    "puppeteer": "^10.4.0",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2"
   },
